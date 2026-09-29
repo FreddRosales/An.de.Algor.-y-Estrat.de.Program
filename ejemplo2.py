@@ -1,5 +1,3 @@
-# Mochila fraccionaria - Método voraz con 4 criterios
-
 def ordenar(cajas, clave, descendente):
     lista = cajas[:]
     n = len(lista)
