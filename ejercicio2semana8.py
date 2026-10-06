@@ -48,7 +48,7 @@ def main():
         a = int(input("Primer número: "))
         b = int(input("Segundo número: "))
 
-        match opcion:  # equivale a switch (opcion)
+        match opcion:
             case "1":
                 print("Resultado:", a + b)
             case "2":
